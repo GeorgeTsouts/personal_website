@@ -309,20 +309,25 @@ h2 {
   }
 }
 @media (max-width: 480px) {
+  #header ul {
+    padding: 1%;
+  }
+
   h1 {
     font-size: 4rem;
   }
-  
+
   .pro-p {
     margin: 0 2% 3% 2%;
   }
 
   .icons-cont {
-    justify-content: space-evenly;
+    justify-content: center;
     width: 90%;
-    gap: 0.5em;
+    gap: 0.2em;
   }
   .icons-cont img {
-    width: 100%;
+    width: 80%;
+  
   }
 }
