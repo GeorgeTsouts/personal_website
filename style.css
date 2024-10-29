@@ -310,11 +310,7 @@ h2 {
 }
 @media (max-width: 480px) {
   h1 {
-    flex: 0 1 auto;
-    color: #ff6500;
-    text-align: center;
     font-size: 4rem;
-    text-shadow: 2px 3px 2px #0b192c;
   }
   
   .pro-p {
